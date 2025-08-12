@@ -32,7 +32,7 @@ export function Footer() {
                 <Twitter className="h-6 w-6" />
               </a>
               <a
-                href="mailto:abhinavmaddhesiya2002@gmail.com"
+                href="abhinavmaddhesiya2002@gmail.com"
                 className="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300"
               >
                 <Mail className="h-6 w-6" />
