@@ -16,7 +16,7 @@ export function Footer() {
             </p>
             <div className="flex space-x-4">
               <a
-                href="https://github.com/KaranSingh36752/DeepFake_Detection"
+                href="https://github.com/Abhinav02072002/Deepfake-detection?tab=readme-ov-file#deepfake_detection"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300"
@@ -24,7 +24,7 @@ export function Footer() {
                 <Github className="h-6 w-6" />
               </a>
               <a
-                href="https://twitter.com/karansingh36752"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300"
@@ -32,7 +32,7 @@ export function Footer() {
                 <Twitter className="h-6 w-6" />
               </a>
               <a
-                href="mailto:ishpreet36752@gmail.com"
+                href="mailto:abhinavmaddhesiya2002@gmail.com"
                 className="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300"
               >
                 <Mail className="h-6 w-6" />
